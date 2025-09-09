@@ -1,0 +1,65 @@
+:root {
+	/* colors */
+	--clr-gray-300: #D1D5DB;
+	--clr-gray-400: #9CA3AF;
+	--clr-gray-500: #6B7280;
+	--clr-gray-600: #4b5563;
+	--clr-gray-950: #030712;
+
+	--clr-bg: #020617;
+
+	--clr-slate-50: #f8fafc;
+
+	--clr-stone-800: #292524;
+	--clr-stone-900: #1c1917;
+	--clr-stone-950: #0c0a09;
+
+	--clr-lime-300: #bef264;
+	--clr-lime-400: #a3e635;
+	--clr-lime-500: #84cc16;
+	--clr-lime-600: #65a30d;
+
+	--clr-cyan-300: #67e8f9;
+	--clr-cyan-400: #22d3ee;
+	--clr-cyan-500: #06b6d4;
+	--clr-cyan-600: #0891b2;
+
+	--clr-indigo-300: #a5b4fc;
+	--clr-indigo-400: #818cf8;
+	--clr-indigo-500: #6366f1;
+	--clr-indigo-600: #4f46e5;
+
+	--clr-purple-300: #d8b4fe;
+	--clr-purple-400: #c084fc;
+	--clr-purple-500: #a855f7;
+	--clr-purple-600: #9333ea;
+
+	--clr-rose-300: #fda4af;
+	--clr-rose-400: #fb7185;
+	--clr-rose-500: #f43f5e;
+	--clr-rose-600: #e11d48;
+
+	/* fonts */ 
+	--fs-2xsm: 0.4rem;
+	--fs-xsm: 0.6rem;
+	--fs-sm: 0.8rem;
+	--fs-base: 1rem;
+	--fs-md: 1.2rem;
+	--fs-xmd: 1.4rem;
+	--fs-2xmd: 1.6rem;
+	--fs-lg: 1.6rem;
+	--fs-xlg: 1.6rem;
+	--fs-2xlg: 1.6rem;
+
+	--fw-thin: 100; 
+	--fw-xlt: 200; 
+	--fw-lt: 300; 
+	--fw-reg: 400; 
+	--fw-md: 500; 
+	--fw-sb: 600; 
+	--fw-bd: 700; 
+	--fw-xbd: 800; 
+	
+	--fs-normal: normal;
+	--fs-italic: italic;
+}
